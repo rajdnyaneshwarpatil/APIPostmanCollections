@@ -1,0 +1,15 @@
+{
+	"id": "408935d5-50d7-4a4b-bb4d-5111db2b8791",
+	"name": "Contacts-qa",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://www.abc.qa.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-03-19T15:33:11.864Z",
+	"_postman_exported_using": "Postman/11.36.6"
+}
